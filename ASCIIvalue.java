@@ -18,4 +18,3 @@ public class ASCIIvalue
 		System.out.println("The ASCII value is " +i);
 	}
 }
-}
