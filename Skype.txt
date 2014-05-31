@@ -1,0 +1,9 @@
+From the Windows taskbar, click Start > Run (or press the Windows The Windows key. and R keys on your keyboard at the same time).
+In the Run window, type the following command (including the quotes) and press OK:
+For 32-bit operating systems:
+
+"C:\Program Files\Skype\Phone\Skype.exe" /secondary
+
+For 64-bit operating systems:
+
+"C:\Program Files (x86)\Skype\Phone\Skype.exe" /secondary
